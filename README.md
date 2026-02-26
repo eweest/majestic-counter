@@ -11,7 +11,7 @@
 Посместите файл MajesticClicker.exe в любое удобное для вас место и просто запустите.
 
 # Ссылка на скачивание
-[GoogleDisk](https://drive.google.com/file/d/1PZ5Bd9BP2FJdEGkwbqyvbSNlBbyhSa-z/view?usp=sharing)
+[GoogleDisk](https://drive.google.com/file/d/1PZ5Bd9BP2FJdEGkwbqyvbSNlBbyhSa-z/view?usp=sharing) Последнее обновление: **26.02.2026 20:00**
 
 * Автор: **[eweest](https://vk.com/eweest)**<br>
 * Активация: **Автоматическая**<br>

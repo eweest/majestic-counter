@@ -16,6 +16,7 @@
 * Автор: **[eweest](https://vk.com/eweest)**<br>
 * Активация: **Автоматическая**<br>
 
+# Скриншоты
 <img width="341" height="418" alt="image" src="https://github.com/user-attachments/assets/53c9acf6-1b69-429b-915a-bbbb730f50c2" />
 <img width="330" height="412" alt="image" src="https://github.com/user-attachments/assets/9630402f-b758-4df5-be82-b50452b6f4ca" />
 <img width="335" height="622" alt="image" src="https://github.com/user-attachments/assets/7da99216-0a2d-41bc-ac64-ef69ae2d9efe" />

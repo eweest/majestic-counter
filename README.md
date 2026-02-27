@@ -2,24 +2,36 @@
 
 Скрипт для подсчета достижений на работах, либо для других ваших нужд, где требуется подсчет. Простое управление. Имеется гибкая настройка значения, цели, шага инкримента. Присутствует сохранение настроек, а так же позиции счетчика. Для удобства открывается в трее. Для корректной работоспособности игру нужно запускать в оконном режиме.
 
-# УПРАВЛЕНИЕ (Возможно изменить)
-`Левая стрелка` - уменьшить значение<br>
-`Правая стрелка` - увеличить значение<br>
-`F7` - Показать/Свернуть
+# ВОЗМОЖНОСТИ
+<li>Гибкая настройка
+<li>Изменение положения
+<li>Редактирование параметров значений (Общее значение, цель, шаг)
+<li>Изменение назначения горчих клавиш
+<li>Сохранение всех настроек
+<li>Иконка в трее для удобства управления
 
-# Установка
+# СТАНДАРТНОЕ УПРАВЛЕНИЕ
+`F7` - Показать/Свернуть
+<br>`SHIFT + F7` - Режим перемещения/редактирования
+<br>`Левая стрелка` - уменьшить значение
+<br>`Правая стрелка` - увеличить значение
+
+# УСТАНОВКА
 Разархивируйте файлы в любое удобное для вас место и просто запустите .exe файл.
 
-# Ссылка на скачивание
-[GoogleDisk](https://drive.google.com/file/d/1nRkiQ0UO2L8wYmc1EigdCZwb9-QbmjBl/view?usp=sharing) — Последнее обновление: **26.02.2026 20:00**
+# ССЫЛКА НА СКАЧИВАНИЕ
+`Актуальная версия: 1.0.0` — [GoogleDisk](https://drive.google.com/file/d/1RfOztETQgsxsimDlQHHTXz7eNt4-GHs2/view?usp=sharing)
 
 * Автор: **[eweest](https://vk.com/eweest)**<br>
 * Активация: **Автоматическая**<br>
 
-# Скриншоты
-<img width="341" height="418" alt="image" src="https://github.com/user-attachments/assets/53c9acf6-1b69-429b-915a-bbbb730f50c2" />
-<img width="330" height="412" alt="image" src="https://github.com/user-attachments/assets/9630402f-b758-4df5-be82-b50452b6f4ca" />
-<img width="335" height="622" alt="image" src="https://github.com/user-attachments/assets/7da99216-0a2d-41bc-ac64-ef69ae2d9efe" />
+# СКРИНШОТЫ
+<img width="315" height="263" alt="image" src="https://github.com/user-attachments/assets/a2a319b6-d16b-4c02-a538-a19975baa164" />
+<img width="310" height="264" alt="image" src="https://github.com/user-attachments/assets/585fbe73-acc1-42da-8496-e68c7ba5b96a" />
+
+<img width="327" height="272" alt="image" src="https://github.com/user-attachments/assets/eedf5a33-bc62-4fef-9677-6bb8983af73a" />
+<img width="317" height="534" alt="image" src="https://github.com/user-attachments/assets/4f01655e-418b-48fe-b072-30a2d4b04016" />
+
 
 # Веб-версия счетчика
 [eweest.github.io](https://eweest.github.io/)

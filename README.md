@@ -28,7 +28,6 @@
 # СКРИНШОТЫ
 <img width="315" height="263" alt="image" src="https://github.com/user-attachments/assets/a2a319b6-d16b-4c02-a538-a19975baa164" />
 <img width="310" height="264" alt="image" src="https://github.com/user-attachments/assets/585fbe73-acc1-42da-8496-e68c7ba5b96a" />
-
 <img width="327" height="272" alt="image" src="https://github.com/user-attachments/assets/eedf5a33-bc62-4fef-9677-6bb8983af73a" />
 <img width="317" height="534" alt="image" src="https://github.com/user-attachments/assets/4f01655e-418b-48fe-b072-30a2d4b04016" />
 
